@@ -1,91 +1,58 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Daeil Kim's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Daeil Kim
+Senior Programmer.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="kiidmale@gmail.com">kiidmale@gmail.com</a>
 </div>
-
-
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+`2010`
+Bachelor's degree in Computer Science and Engineering
 
 
+## Work Experience
 
-## Awards
+`2017 - present`
+Co-founder, humbler, Seoul, Korea
+Developed the client/server infrastructures for mobile game services.
+Lanched a PVP strategy game called [Space Knights](https://play.google.com/store/apps/details?id=com.humbler.spaceknights) (beta)
 
-`2012`
-President, *Royal Society*, London, UK
+`2013 - 2017`
+Senior Programmer, PATI Games, Korea
+Live producer for the game, I Love Coffee(2014-2015)
+Involved various game projects as a lead programmer
 
-Associate, *French Academy of Science*, Paris, France
+`2011 - 2013`
+SDET, Microsoft, Seoul, Korea
+Participated in developing Office 2013
+Co-patent holder for Reusable Workflow
 
+`2010`
+Research Intern, Center for Manycore Programming, Seoul National University
+Involved in research on GPGPU
 
+`2006 - 2008`
+Software Engineer, Naver, Seongnam, Korea
+Maintained and developed the presentation layer of Naver's web search system
 
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`2005 - 2006`
+Programmer, Theraphy, Seoul, Korea
+Developed a CTI(Computer Telephony Integration) application
 
 
+## Service
 
-<!-- ### Footer
+`2002 - 2004`
+NT lead of System and Network Administrator's group at Department of CSE
+`2002 - 2004`
+President of CSE Student '01
 
-Last updated: May 2013 -->
 
-
+## Skill
+* Language: Korean(Native), English(iBT TOEFL: 100, GRE Verbal: 800)
+* Computer: Familiar with most programming languages
